@@ -46,7 +46,7 @@ I enjoy working with **Python, C++, Machine Learning, and Computer Vision**, exp
 <div align="center">
 
 <a href="https://github.com/akashnarayanapuram2/Posture_Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnarayanapuram2&repo=Posture_Detection&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashnarayanapuram2&repo=Posture_Detection&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -93,9 +93,9 @@ AI-powered posture detection system that uses **computer vision and pose estimat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashnarayanapuram2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashnarayanapuram2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnarayanapuram2&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashnarayanapuram2&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
