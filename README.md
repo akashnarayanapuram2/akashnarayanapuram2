@@ -111,7 +111,7 @@ AI-powered posture detection system that uses **computer vision and pose estimat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akashnarayanapuram2&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akashnarayanapuram2&theme=algolia&no-frame=true&margin-w=15"/>
 
 </div>
 
