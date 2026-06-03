@@ -46,21 +46,18 @@ I enjoy working with **Python, C++, Machine Learning, and Computer Vision**, exp
 <div align="center">
 
 <a href="https://github.com/akashnarayanapuram2/Posture_Detection">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashnarayanapuram2&repo=Posture_Detection&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Posture_Detection-AI%20Powered%20Posture%20Detection-blueviolet?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ### 🧍 Posture Detection Using AI
 
-AI-powered posture detection system using computer vision and pose estimation to monitor body posture in real time and identify incorrect posture for improved health and ergonomics.
+AI-powered posture detection system using computer vision and pose estimation to monitor body posture in real time and help identify incorrect posture for improved health and ergonomics.
 
+🔗 Repository:  
+https://github.com/akashnarayanapuram2/Posture_Detection
 
-### 🧍 Posture Detection Using AI
-
-AI-powered posture detection system that uses **computer vision and pose estimation** techniques to monitor body posture in real time and help identify incorrect posture for improved health and ergonomics.
-
----
 
 # 🏆 Achievements & Highlights
 
