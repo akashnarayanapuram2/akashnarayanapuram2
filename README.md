@@ -46,11 +46,11 @@ I'm a developer who turns ideas into clean, efficient code. I write about tech o
 
 <div align="center">  
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashNarayanapuram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashnarayanapuram2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashNarayanapuram&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashNarayanapuram2&theme=tokyonight&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashNarayanapuram&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashnarayanapuram2&layout=compact&theme=tokyonight&hide_border=true)  
 
 </div>  
 
@@ -60,4 +60,4 @@ I'm a developer who turns ideas into clean, efficient code. I write about tech o
 
 <div align="center">  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=AkashNarayanapuram&theme=tokyonight&
+![Trophy](https://github-profile-trophy.vercel.app/?username=akashnarayanapuram2&theme=tokyonight&
