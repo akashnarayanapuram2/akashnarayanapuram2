@@ -127,7 +127,6 @@ https://github.com/akashnarayanapuram2/Posture_Detection
 
 ---
 
-<div align="center">
 
 ### ✨ Learning, building, and growing one step at a time.
 
