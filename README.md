@@ -46,7 +46,7 @@ I enjoy working with **Python, C++, Machine Learning, and Computer Vision**, exp
 <div align="center">
 
 <a href="https://github.com/akashnarayanapuram2/Posture_Detection">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashnarayanapuram2&repo=Posture_Detection&theme=tokyonight&hide_border=true"/>
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashnarayanapuram2&repo=Posture_Detection&theme=tokyonight&hide_border=true"/>](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashnarayanapuram2&repo=Posture_Detection&theme=tokyonight)
 </a>
 
 </div>
