@@ -95,7 +95,7 @@ AI-powered posture detection system that uses **computer vision and pose estimat
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashnarayanapuram2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashnarayanapuram2&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=akashnarayanapuram2&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -111,7 +111,7 @@ AI-powered posture detection system that uses **computer vision and pose estimat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akashnarayanapuram2&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akashnarayanapuram2&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </div>
 
