@@ -93,11 +93,15 @@ AI-powered posture detection system that uses **computer vision and pose estimat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashnarayanapuram2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashnarayanapuram2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnarayanapuram2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnarayanapuram2&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashnarayanapuram2&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=akashnarayanapuram2&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -110,8 +114,6 @@ AI-powered posture detection system that uses **computer vision and pose estimat
 <img src="https://github-profile-trophy.vercel.app/?username=akashnarayanapuram2&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
-
----
 
 # 🐍 Contribution Snake
 
